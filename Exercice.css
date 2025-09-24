@@ -1,0 +1,23 @@
+.Haut{
+    margin-right: 33%;
+    text-align: center;
+    margin-left: 33%;
+    background-color: azure;
+}
+div{
+    padding: 25px;
+}
+#NAME{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+}
+
+#mit{
+background-color: rgb(176, 230, 230);
+text-align: center;
+ margin-right: 35%;
+    text-align: center;
+    margin-left: 35%;
+font-family:  'Arial Narrow', Arial;
+margin-top: 100px;
+
+}
